@@ -12,6 +12,9 @@ Browse your file system and open the desider folder, then simply click on the bu
 
 Credits to Fabio Copes and details at https://flaviocopes.com/how-to-add-an-open-in-vs-code-icon-in-macos-finder/
 
+## Open With iTerm
+Same as previous app, just launching a new iTerm window on the folder currently opened in Finder.
+
 
 ## Shrink PDF file
 A quick action which shrinks PDF files. It duplicates the file and shrink it using the export Quartz filter
