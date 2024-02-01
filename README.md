@@ -23,3 +23,9 @@ Installation steps:
 * Copy the workflow file in $HOME/Library/Service
 * Open Finder -> Quick Actions -> Customize and add tick this action
 
+## Screenshots location
+Change default folder to save screenshots and screen captures.
+
+```
+./screenshot-location.sh $HOME/Downloads/ScreenCaptures
+```
