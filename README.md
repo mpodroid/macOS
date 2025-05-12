@@ -31,7 +31,7 @@ Change default folder to save screenshots and screen captures.
 ```
 
 ## Rename files so alphabetical and chronological order match
-Copy the **"rename_dates.command"** file in the same folder where your files are stored.
+Copy the **"rename_dates.py"** file in the same folder where your files are stored, change the extension from **.py** to **.command** so Finder will execute it in a terminal.
 
 In Finder, double click on it to execute it. Original files will be moved in the **"orig"** subfolder.
 
