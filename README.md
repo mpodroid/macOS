@@ -32,6 +32,8 @@ Change default folder to save screenshots and screen captures.
 
 ## Rename files so alphabetical and chronological order match
 Copy the **"rename_dates.command"** file in the same folder where your files are stored.
-From Finder, double click on it to execute it. Original files will be moved in the **"orig"** subfolder
+
+In Finder, double click on it to execute it. Original files will be moved in the **"orig"** subfolder.
+
 Tune the matching and rename patterns as needed.
 
