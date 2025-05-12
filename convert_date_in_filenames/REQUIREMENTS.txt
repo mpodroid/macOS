@@ -1,0 +1,9 @@
+I have many files that I want to rename in a single click. I need a python script and here are my requirements:
+* the script is stored  in the same folder as the files
+* I want to execute the script with a double click in Finder
+* Per each file matching a pattern the script does:
+    * Create a copy with the new name
+    * Move the original file in a subfolder called "orig"
+* The matching pattern is "xxxxxxx Sept 2023.pdf", so with the month name using 3 or 4 letters and a capital initial letter
+* The new name is "xxxxxx YYYY-MM.pdf", eg "xxxxxx 2023-09.pdf"
+
